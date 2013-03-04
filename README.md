@@ -3,7 +3,7 @@ patronage-task-1
 autor: Pawel Kwiecien
 
 ======================================================
-odpalenie zadania pod Windowsem w wierszu polecania:
+odpalenie zadania pod Windowsem w wierszu polecenia:
 ======================================================
 	Ÿród³o java:
 		skompiluj Ÿród³o wpisuj¹c w wierszu polecania: javac Hello.java
@@ -20,7 +20,7 @@ odpalenie zadania pod Windowsem w wierszu polecania:
 		mo¿emy otworzyæ w przegl¹darce internetowej plik Hello.html, ktory wykorzystuj¹c Ÿród³o poka¿e nam wynik na ekranie
 
 ======================================================
-odpalenie zadania pod UBUNTU w wierszu polecania:
+odpalenie zadania pod UBUNTU w terminalu:
 ======================================================
 
 	Ÿród³o java:	
